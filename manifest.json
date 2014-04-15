@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "webmBed",
-  "version": "0.7.5",
+  "version": "0.7.9",
   "description": "Taking .webm urls and displaying the video inline",
 
   "icons": {
